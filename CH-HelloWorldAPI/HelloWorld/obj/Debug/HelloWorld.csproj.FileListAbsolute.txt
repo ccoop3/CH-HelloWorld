@@ -1,0 +1,6 @@
+C:\CH-Apps\CH-Final\CH-HelloWorldAPI\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\CH-Apps\CH-Final\CH-HelloWorldAPI\HelloWorld\bin\Debug\HelloWorld.exe
+C:\CH-Apps\CH-Final\CH-HelloWorldAPI\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\CH-Apps\CH-Final\CH-HelloWorldAPI\HelloWorld\obj\Debug\HelloWorld.exe
+C:\CH-Apps\CH-Final\CH-HelloWorldAPI\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\CH-Apps\CH-Final\CH-HelloWorldAPI\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
